@@ -1,4 +1,4 @@
-package zjf.usst.cn;
+	package zjf.usst.cn;
 
 import java.io.File;
 
@@ -40,6 +40,7 @@ public class AnalyseEcel {
         }
         catch(Exception e)  { } 
         System.out.println("hello");
+        System.out.println("hello2");
 	}
 
 }
