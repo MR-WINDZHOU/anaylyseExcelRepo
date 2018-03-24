@@ -39,7 +39,7 @@ public class AnalyseEcel {
             book.close(); 
         }
         catch(Exception e)  { } 
-
+        System.out.println("hello");
 	}
 
 }
